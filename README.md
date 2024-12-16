@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S4X-Spidy aka Prem Anant Shelar  
 - 👀 I’m interested in learning new technologies and add them in my tech stack
-- 🌱 I’m currently learning MERN stack and GEN AI
+- 🌱 I’m currently learning data structures in depth, MERN stack and GEN AI
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Mostly in Computer Science things but Aviation for my nation is everything 
 
